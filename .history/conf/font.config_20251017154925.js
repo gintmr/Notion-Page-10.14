@@ -41,7 +41,7 @@ module.exports = {
   ],
   // 衬线字体
   FONT_SERIF: [
-    'Kalnia Glaze',                    // 主要英文字体
+    'Kalnia  Glaze',                    // 主要英文字体
     '"LXGW WenKai"',             // 主要中文字体
     'Georgia',                   // 备用英文字体
     'SimSun',                    // 备用中文字体
